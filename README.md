@@ -75,5 +75,5 @@ This project uses the **OpenWeatherMap API** to get live weather data.
 Hasitha Ramesh
 Undergraduate IT Student | Open University of Sri Lanka
 
-- 📧 hasitha.ict@gmail.com
-- 🔗https://github.com/hasitha-ramesh
+- 📧 [hasitha.ict@gmail.com](mailto:hasitha.ict@gmail.com) 
+- 🔗 [github.com/hasitha-ramesh](https://github.com/hasitha-ramesh)
