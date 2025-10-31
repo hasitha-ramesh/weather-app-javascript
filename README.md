@@ -56,7 +56,7 @@ This project uses the **OpenWeatherMap API** to get live weather data.
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](images/screenshot.png)
+![Weather App Screenshot](images/Screenshot.png)
 
 ---
 
